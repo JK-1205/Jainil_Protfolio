@@ -51,8 +51,8 @@ export const PROJECTS = [
       "Spline 3D",
       "EmailJS",
     ],
-    link: " ",
-    github: " ",
+    link: "https://jainil-protfolio.vercel.app/",
+    github: "https://github.com/JK-1205/Jainil_Protfolio",
   },
 
   {
